@@ -7,7 +7,6 @@ public class testMain {
 	}
 	
 	class test() {
-		//test ko ulit
 		//added in github
 	}
 
